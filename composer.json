@@ -1,0 +1,14 @@
+{
+    "name": "esprit/data-mapper",
+    "authors": [
+        {
+            "name": "Andrew",
+            "email": "ezprit@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "DataMapper\\": "src/"
+        }
+    }
+}
